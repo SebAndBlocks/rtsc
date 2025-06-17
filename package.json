@@ -1,7 +1,7 @@
 {
-  "name": "runtipi-appstore",
+  "name": "lightbulb-plus-rtsc",
   "version": "1.0.0",
-  "description": "",
+  "description": "💡PLUS - a Modified Runtipi App Store",
   "main": "",
   "scripts": {
     "commit": "git-cz",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meienberger/runtipi-appstore.git"
+    "url": "git+https://github.com/sebandblocks/rtsc.git"
   },
   "author": "",
   "license": "GNU General Public License v3.0",
   "bugs": {
-    "url": "https://github.com/meienberger/runtipi-appstore/issues"
+    "url": "https://github.com/sebandblocks/rtsc/issues"
   },
-  "homepage": "https://github.com/meienberger/runtipi-appstore#readme",
+  "homepage": "https://github.com/sebandblocks/rtsc#readme",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@commitlint/cli": "^19.8.1",
