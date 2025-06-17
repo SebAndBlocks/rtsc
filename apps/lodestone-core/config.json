@@ -15,7 +15,7 @@
   "author": "Lodestone-Team (PLUSified by SebAndBlocks)",
   "source": "https://github.com/Lodestone-Team/lodestone_core",
   "website": "https://lodestone.cc",
-  "form_fields": [[
+  "form_fields": [
     {
       "type": "string",
       "label": "Loadstone Directory",
@@ -23,7 +23,8 @@
       "placeholder": "/loadstone",
       "required": true,
       "env_variable": "LOADSTONE_DIRECTORY"
-    }],
+    }
+  ],
   "supported_architectures": ["arm64", "amd64"],
   "created_at": 1691943801422,
   "updated_at": 1736983530794
