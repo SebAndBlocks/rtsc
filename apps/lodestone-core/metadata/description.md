@@ -10,7 +10,7 @@ A free, open source server hosting tool for Minecraft and other multiplayers
 
 ### Ports
 
-- Ports 25565-25575 are open for Minecraft Servers
+- Ports ~25565-25575~ 25560-25580 are open for Minecraft Servers 💡
 
 - Port 16662 used by the [Lodestone Dashboard](https://lodestone.cc)
 
