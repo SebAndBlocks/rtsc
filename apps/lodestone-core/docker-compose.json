@@ -8,14 +8,14 @@
       "internalPort": 16662,
       "addPorts": [
         {
-          "hostPort": "25565-25575",
-          "containerPort": "25565-25575"
+          "hostPort": "25560-25580",
+          "containerPort": "25560-25580"
         }
       ],
       "user": "0:0",
       "volumes": [
         {
-          "hostPath": "${APP_DATA_DIR}/data/lodestone-data",
+          "hostPath": "${LOADSTONE_DIRECTORY}/lodestone-data",
           "containerPath": "/root/.lodestone"
         }
       ]
